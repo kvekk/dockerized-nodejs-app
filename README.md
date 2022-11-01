@@ -1,5 +1,5 @@
 # Dockerizing a Node.js web app
-This application was based on [Node.js documentation guide](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/) on dockerizing a Node.js web app.
+This application is based on [Node.js documentation guide](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/) on dockerizing a Node.js web app.
 ## Building a Docker image
 1. Get the source: _git clone https://github.com/kvekk/dockerized-nodejs-app.git_
 2. Move into downloaded repo: _cd dockerized-nodejs-app/_
